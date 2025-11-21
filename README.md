@@ -4,4 +4,4 @@ The file 'MatlabCode' contain the fouling PCD segmentation approach and fouling 
 The file 'UnderwaterImage-S2' is small number of the S2 underwater image.
 The file 'FieldTestPCD-S1~S4' is the fouling 3D PCD of the field test.
 The file 'LaboratoryTest-S1-reg-9.3.ply', 'LaboratoryTest-S4-reg-10.12.ply' and so on, is the underwater fouling 3D PCD of the laboratory test.
-Note: Due to the file size limitation on Github, we had to open source the down sampled point cloud files for free. If you would like to obtain a complete point cloud model and images, please contact me via email
+Note: Due to the file size limitation on Github, we had to open source the down sampled point cloud files for free. If you would like to obtain a complete point cloud model and images, please contact me via email: yanjing12321@163.com
